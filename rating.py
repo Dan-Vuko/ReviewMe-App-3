@@ -217,20 +217,3 @@ if __name__ == "__main__": # General Protocal for Python, this will only run if 
 
 
 
-# Post-Scriptum:
-
-# Overall I am quiet pleased with the program, it works as intended. The GUI is not bad. I initially thought that this would take me a lot longer.
-# I actually finished it in 1 day, but I spent about 16 hours straight on it only taking breaks to make coffee.
-# I wish I knew how to use CSS Frameworks with Python, I think that would make the GUI look a lot nicer.
-# I know how to write CSS & HTML, but I still don't know how to utilise it with Python.
-# The spacing is a bit off, but I think that is because I am using the place method as opposed to the grid method.
-# I forgot about the grid method and didn't remember until after I started using the place method.
-# I think it would be more useful to store the data as a list in the next file so it is easier to work with in the future.
-
-# Post Post-Scriptum:
-
-# I would like to thank the lecturers at UNE for teaching me Python and putting me in a position to be able to do this.
-# Before UNE I was a bit lost, just watching YouTube videos and trying to learn on my own.
-# But now I know what is expected of me and I know how to do it. Not only that, it's just being in an environment where everyone is learning really helps.
-# I have learnt a lot from my peers and I have learnt a lot from the lecturers. 
-# Hope you enjoy the holiday season and I hope you have a great new year!
