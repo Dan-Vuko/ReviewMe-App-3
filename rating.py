@@ -1,7 +1,7 @@
 ## REVIEWME! ##
 
 # BUG:
-# Only bug is that the buttons are not placed 100% correctly.
+# Buttons could be improved.
 
 
 from tkinter import * # Importing the required modules
